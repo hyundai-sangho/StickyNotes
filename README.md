@@ -4,6 +4,6 @@
 
 - https://www.youtube.com/watch?v=Efo7nIUF2JY
 
-- https://hyundai-sangho.github.io/StickyNotes/
+- https://hyundai-sangho.github.io/StickyNotes_js/
 
 - ![default](screenshot.gif)
