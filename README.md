@@ -6,4 +6,4 @@
 
 - https://hyundai-sangho.github.io/StickyNotes_js/
 
-- ![default](screen.mp4)
+- screen.mp4
