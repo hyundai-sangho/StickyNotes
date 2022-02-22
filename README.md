@@ -6,4 +6,4 @@
 
 - 사이트 주소
 
-- 스크린샷 ![default](screenshot.gif)
+- ![default](screenshot.gif)
