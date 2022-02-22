@@ -6,4 +6,4 @@
 
 - https://hyundai-sangho.github.io/StickyNotes/
 
-- ![default](screenshot.gif)
+- ![default](screen.mp4)
