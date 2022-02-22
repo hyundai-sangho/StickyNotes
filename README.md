@@ -4,6 +4,6 @@
 
 - https://www.youtube.com/watch?v=Efo7nIUF2JY
 
-- 사이트 주소
+- https://hyundai-sangho.github.io/StickyNotes/
 
 - ![default](screenshot.gif)
